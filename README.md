@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **WEB3, AWS**
 
-⚡ Fun fact ** I love traveling, playing soccer, and video games! 🕹️⚽✈️**
+⚡ Fun fact **I love traveling, playing soccer, and video games!** 🕹️⚽✈️
 
  </div>
  
