@@ -1,62 +1,56 @@
+# Matías Agustín Viglianco
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matías+Agustín+Viglianco!;" />
-</h1>
+**AI Integration & Backend Engineer | Python, Django/DRF, PostgreSQL | Production AI & Business Automation**
 
-<h3 align="center"> Full Stack developer and system engineer🧑‍💻 🇨🇦</h3>
+[Portfolio](https://mativiglianco.github.io/portfolio-astro/) · [LinkedIn](https://www.linkedin.com/in/mat%C3%ADas-agust%C3%ADn-viglianco/) · [Email](mailto:matiasviglisnco@gmail.com)
 
-<br/>
+Based in Argentina. Open to fully remote opportunities across North America, Latin America, and Europe.
 
-<div align="center">
- 
- 🔭 I’m currently working on **Revelo**
- 
- 🌱 I’m currently learning **WEB3, AWS**
+## About
 
-⚡ Fun fact **I love traveling, playing soccer, and video games!** 🕹️⚽✈️
+I build production systems that connect artificial intelligence, data, and real business operations. My work covers the full delivery lifecycle: process discovery, architecture, data modeling, APIs, asynchronous processing, deployment, observability, and maintenance.
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:matiasviglisnco@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/mat%C3%ADas-agust%C3%ADn-viglianco/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+I currently design and maintain solutions for WhatsApp-based CRM, multi-bank financial reconciliation, ERP modernization, OCR-assisted workflows, operational reporting, electronic waybill automation, and AI-powered business assistants.
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,docker,solidity" />
-    <img src="https://skillicons.dev/icons?i=tailwind,nodejs,python,javascript,firebase,mongodb,java,mysql,flask,django,aws" /><br>
-</div>
+## What I build
 
-<br/>
-<hr/>
+- Production AI integrations with validation, budgets, audit trails, and human review
+- Backend platforms and REST APIs with Python, Django, and Django REST Framework
+- ERP, CRM, financial reconciliation, reporting, and workflow automation
+- WhatsApp Business Platform integrations, webhooks, audio processing, and document delivery
+- Reliable data pipelines: bulk imports, normalization, deduplication, backfills, and snapshots
+- Containerized deployments with Docker, Nginx, Dokploy, PostgreSQL, Redis, and S3-compatible storage
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MatiViglianco/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+## Selected engineering outcomes
 
-<hr/>
+- Reduced input tokens from 15,620 to 9,014 on a representative AI-assisted reconciliation run (-43%)
+- Removed 46 repeated bank rows from the same workflow and reduced payload size by 14%
+- Added model-specific pricing, request limits, persistent usage history, and safe fallbacks
+- Maintained a production reconciliation workflow backed by 160+ automated tests
+- Automated operational processes involving six Argentine banks, WhatsApp, OCR, and government APIs
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MatiViglianco&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MatiViglianco&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MatiViglianco&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+## Featured work
 
-<br/><br/>
+- [Portfolio — AI Integrations, Backend & Full Stack Projects](https://mativiglianco.github.io/portfolio-astro/)
+- [AI-Assisted Bank Reconciliation — Sanitized Case Study](case-studies/ai-assisted-bank-reconciliation.md)
+- [ERP-Final — Business Operations ERP & Reporting](https://github.com/MatiViglianco/ERP-Final)
+- [Naranja Autoservicio — Django + React E-commerce](https://github.com/MatiViglianco/naranja-autoservicio)
+- [AppCuentaCorriente — Accounts Receivable Management](https://github.com/MatiViglianco/AppCuentaCorriente)
 
-<hr/>
+## Core stack
+
+**Backend:** Python, Django, Django REST Framework, FastAPI  
+**Data:** PostgreSQL, Redis, Celery, Pandas, MinIO/S3  
+**Frontend:** React, TypeScript, Vite, Material UI  
+**AI & integrations:** Gemini, LLM APIs, OCR, Meta/WhatsApp Business Platform, REST, SOAP  
+**Infrastructure:** Docker, Nginx, Dokploy, GitHub Actions, Linux VPS
+
+## How I work
+
+I treat AI-generated code like any other production change: it must be reviewed, tested, observable, secure, and connected to a measurable business outcome.
+
+## Contact
+
+- LinkedIn: [Matías Agustín Viglianco](https://www.linkedin.com/in/mat%C3%ADas-agust%C3%ADn-viglianco/)
+- Portfolio: [mativiglianco.github.io/portfolio-astro](https://mativiglianco.github.io/portfolio-astro/)
+- Email: [matiasviglisnco@gmail.com](mailto:matiasviglisnco@gmail.com)
