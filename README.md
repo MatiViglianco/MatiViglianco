@@ -32,7 +32,7 @@ My current focus is backend engineering for WhatsApp-based CRM, multi-bank finan
 ## Featured work
 
 - [AI-Assisted Bank Reconciliation — Sanitized Case Study](case-studies/ai-assisted-bank-reconciliation.md)
-- [ERP-Final — Business Operations ERP & Reporting](https://github.com/MatiViglianco/ERP-Final)
+- [ERP-Final — Visual Engineering Case Study](case-studies/erp-final.md)
 - [Naranja Autoservicio — Django + React E-commerce](https://github.com/MatiViglianco/naranja-autoservicio)
 - [Portfolio — Production AI, Backend & Business Automation](https://mativiglianco.github.io/portfolio-astro/)
 
