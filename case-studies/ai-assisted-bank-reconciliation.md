@@ -14,6 +14,10 @@ I designed and implemented the backend architecture, data model, import and norm
 
 ## Architecture
 
+![Production reconciliation architecture](assets/reconciliation-architecture.svg)
+
+The diagram shows the control boundary: deterministic logic resolves predictable cases, the model only proposes matches for unresolved candidates, and a human owns ambiguous financial decisions.
+
 1. **Ingestion and validation**  
    Each uploaded statement or ledger file is identified, validated against its expected institution, and rejected when its structure is incompatible.
 
@@ -45,6 +49,14 @@ Results from a representative production reconciliation:
 - Payload size: **-14%**
 - Automated test suite: **160+ tests**
 - AI budget protection: cost-based and request-count limits
+
+![Measured optimization impact](assets/reconciliation-impact.svg)
+
+## Sanitized review experience
+
+![Sanitized reconstruction of the reconciliation review screen](assets/reconciliation-review-sanitized.svg)
+
+*Reconstructed interface with fictitious identifiers and masked values. It illustrates the reviewer workflow without exposing production records.*
 
 ## Reliability principles
 
