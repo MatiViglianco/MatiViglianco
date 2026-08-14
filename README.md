@@ -1,8 +1,8 @@
 # Matías Agustín Viglianco
 
-**AI Integration & Backend Engineer | Python, Django/DRF, PostgreSQL | Production AI & Business Automation**
+**Backend & AI Integrations Engineer | Python, Django/DRF, PostgreSQL | Production AI & Business Automation**
 
-[Portfolio](https://mativiglianco.github.io/portfolio-astro/) · [LinkedIn](https://www.linkedin.com/in/mat%C3%ADas-agust%C3%ADn-viglianco/) · [Email](mailto:matiasviglisnco@gmail.com)
+[Portfolio](https://mativiglianco.github.io/portfolio-astro/) · [LinkedIn](https://www.linkedin.com/in/mat%C3%ADas-agust%C3%ADn-viglianco/) · [Email](mailto:matiasviglianco@gmail.com)
 
 Based in Argentina. Open to fully remote opportunities across North America, Latin America, and Europe.
 
@@ -10,7 +10,7 @@ Based in Argentina. Open to fully remote opportunities across North America, Lat
 
 I build production systems that connect artificial intelligence, data, and real business operations. My work covers the full delivery lifecycle: process discovery, architecture, data modeling, APIs, asynchronous processing, deployment, observability, and maintenance.
 
-I currently design and maintain solutions for WhatsApp-based CRM, multi-bank financial reconciliation, ERP modernization, OCR-assisted workflows, operational reporting, electronic waybill automation, and AI-powered business assistants.
+My current focus is backend engineering for WhatsApp-based CRM, multi-bank financial reconciliation, ERP modernization, OCR-assisted workflows, operational reporting, electronic waybill automation, and AI-powered business assistants.
 
 ## What I build
 
@@ -31,11 +31,10 @@ I currently design and maintain solutions for WhatsApp-based CRM, multi-bank fin
 
 ## Featured work
 
-- [Portfolio — AI Integrations, Backend & Full Stack Projects](https://mativiglianco.github.io/portfolio-astro/)
 - [AI-Assisted Bank Reconciliation — Sanitized Case Study](case-studies/ai-assisted-bank-reconciliation.md)
 - [ERP-Final — Business Operations ERP & Reporting](https://github.com/MatiViglianco/ERP-Final)
 - [Naranja Autoservicio — Django + React E-commerce](https://github.com/MatiViglianco/naranja-autoservicio)
-- [AppCuentaCorriente — Accounts Receivable Management](https://github.com/MatiViglianco/AppCuentaCorriente)
+- [Portfolio — Production AI, Backend & Business Automation](https://mativiglianco.github.io/portfolio-astro/)
 
 ## Core stack
 
@@ -53,4 +52,4 @@ I treat AI-generated code like any other production change: it must be reviewed,
 
 - LinkedIn: [Matías Agustín Viglianco](https://www.linkedin.com/in/mat%C3%ADas-agust%C3%ADn-viglianco/)
 - Portfolio: [mativiglianco.github.io/portfolio-astro](https://mativiglianco.github.io/portfolio-astro/)
-- Email: [matiasviglisnco@gmail.com](mailto:matiasviglisnco@gmail.com)
+- Email: [matiasviglianco@gmail.com](mailto:matiasviglianco@gmail.com)
